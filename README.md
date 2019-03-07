@@ -485,3 +485,5 @@ The following prompt will be returned:
 
 - Restart Apache again: `sudo service apache2 restart`.
 - Open your browser to http://13.127.212.37
+
+**Special Thanks to *[iliketomatoes](https://github.com/boisalai/udacity-linux-server-configuration)* for a very helpful README**
